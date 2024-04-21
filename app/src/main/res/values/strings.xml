@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registro de Datos</string>
+    <string name="tvTitulo">  Registro de Usuarios</string>
+    <string name="etdocumento"> Ingrese Documento </string>
+    <string name="etusuario">USUARIO</string>
+    <string name="etnombres">NOMBRES</string>
+    <string name="etapelIidos">APELLIDOS</string>
+    <string name="etcontra">APELLIDOS</string>
+    <string name="btnregistrar">Registrar</string>
+    <string name="btnbuscar">Buscar</string>
+    <string name="btnIistarRegistros">Listar</string>
+    <string name="btnLimpiar">Limpiar</string>
+</resources>
